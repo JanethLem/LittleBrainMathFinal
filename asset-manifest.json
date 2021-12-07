@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/LittleBrainMathFinal/static/css/main.fe1e9e28.chunk.css",
+    "main.js": "/LittleBrainMathFinal/static/js/main.7a319cac.chunk.js",
+    "main.js.map": "/LittleBrainMathFinal/static/js/main.7a319cac.chunk.js.map",
+    "runtime-main.js": "/LittleBrainMathFinal/static/js/runtime-main.97f13ec1.js",
+    "runtime-main.js.map": "/LittleBrainMathFinal/static/js/runtime-main.97f13ec1.js.map",
+    "static/css/2.12f90ea2.chunk.css": "/LittleBrainMathFinal/static/css/2.12f90ea2.chunk.css",
+    "static/js/2.e4a4e071.chunk.js": "/LittleBrainMathFinal/static/js/2.e4a4e071.chunk.js",
+    "static/js/2.e4a4e071.chunk.js.map": "/LittleBrainMathFinal/static/js/2.e4a4e071.chunk.js.map",
+    "index.html": "/LittleBrainMathFinal/index.html",
+    "static/css/2.12f90ea2.chunk.css.map": "/LittleBrainMathFinal/static/css/2.12f90ea2.chunk.css.map",
+    "static/css/main.fe1e9e28.chunk.css.map": "/LittleBrainMathFinal/static/css/main.fe1e9e28.chunk.css.map",
+    "static/js/2.e4a4e071.chunk.js.LICENSE.txt": "/LittleBrainMathFinal/static/js/2.e4a4e071.chunk.js.LICENSE.txt",
+    "static/media/act1.39be997c.jpg": "/LittleBrainMathFinal/static/media/act1.39be997c.jpg",
+    "static/media/juegos.4247d776.png": "/LittleBrainMathFinal/static/media/juegos.4247d776.png",
+    "static/media/portada.7316f6c7.mp4": "/LittleBrainMathFinal/static/media/portada.7316f6c7.mp4",
+    "static/media/video1.12bb04e9.jpeg": "/LittleBrainMathFinal/static/media/video1.12bb04e9.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.97f13ec1.js",
+    "static/css/2.12f90ea2.chunk.css",
+    "static/js/2.e4a4e071.chunk.js",
+    "static/css/main.fe1e9e28.chunk.css",
+    "static/js/main.7a319cac.chunk.js"
+  ]
+}
