@@ -142,17 +142,7 @@ function Crud() {
 
                         <td>{item.name}</td>
                         <td>{item.correo}</td>
-                        <td>{item.descripcion}</td>
-                        
-                        <td><button
-                        className="btn btn-info btn-sm float-right mx-2"
-                        onClick={()=>deleteTask(item.id)}
-                        >Eliminar</button></td>
-                        
-                        <td><button className="btn  btn-warning btn-sm float-right"
-                        onClick={()=>editTask(item)}>
-                        Editar</button></td>
-                        
+                        <td>{item.descripcion}</td>   
                         </tr>
                     )) 
                     }
